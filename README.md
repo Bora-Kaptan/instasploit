@@ -4,7 +4,7 @@ instasploit v1.0
 Programci: Bora duman
 
 show <modules>
-use <module>
+use <module> and options
 execute <execution module>
 info <info>
 
