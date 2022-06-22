@@ -1,0 +1,6 @@
+colorama
+wget
+instabot
+requests
+request
+
